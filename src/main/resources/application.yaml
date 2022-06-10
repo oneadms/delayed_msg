@@ -4,4 +4,4 @@ spring:
     username: guest
     password: guest
     virtual-host: /
-    
+    host: 119.91.222.75
